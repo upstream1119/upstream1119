@@ -19,10 +19,10 @@ My current work is not just about plugging models into applications. I care more
 
 ## 代表项目｜Featured AI Systems
 
-### VeriMind-MedAudit
+### MedAudit-RAG
 
-面向儿科用药科普的可信问答与证据审计系统。  
-A pediatric-medication trustworthy QA and evidence-auditing prototype.
+MedAudit-RAG：基于规则感知证据审计的儿科用药低幻觉问答系统。  
+MedAudit-RAG: Rule-Aware Evidence Auditing for Low-Hallucination Pediatric Medication QA.
 
 项目目标不是替代医生，也不是生成看似确定的用药建议，而是审计医学回答是否有证据支撑、是否忠实于指南、是否越过安全边界，以及是否应该展示给用户。  
 The goal is not to replace doctors or generate confident medication advice. The system audits whether a medical answer is evidence-supported, faithful to guidelines, within safety boundaries, and safe enough to show.
