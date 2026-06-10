@@ -33,6 +33,17 @@ When the knowledge base is incomplete, evidence is insufficient, or the index is
 **关键词｜Keywords:** 医学回答审计、证据链、Trust-Score、fail-closed 安全策略、儿科用药｜medical answer auditing, evidence chain, Trust-Score, fail-closed safety, pediatric medication  
 **技术栈｜Tech stack:** FastAPI, LangGraph, ChromaDB, React, Ant Design, SSE
 
+### Traceable Ideological Education RAG
+
+国家级大学生创新创业训练计划项目。  
+A National College Student Innovation and Entrepreneurship Training Program project.
+
+项目面向思政教育场景，探索 KG-RAG、多智能体审查、Citation 溯源、政治安全审查与跨模态学习交互。  
+The project explores traceable educational AI interaction with KG-RAG, multi-agent review, citation grounding, political safety checking, and cross-modal learning interaction.
+
+**关键词｜Keywords:** KG-RAG、多智能体审查、可溯源生成、教育 AI、引用溯源｜KG-RAG, multi-agent review, traceable generation, educational AI, citation grounding  
+**技术栈｜Tech stack:** FastAPI, schema-driven API, hybrid retrieval, knowledge graph modules planned
+
 ### VeriMind
 
 面向科研知识库的可信 Agentic RAG 原型系统。  
@@ -43,17 +54,6 @@ It explores intent-aware routing, multi-granularity retrieval, answer faithfulne
 
 **关键词｜Keywords:** Agentic RAG、幻觉控制、证据驱动生成、科研问答｜Agentic RAG, hallucination control, evidence-grounded generation, scientific QA  
 **技术栈｜Tech stack:** Python, LlamaIndex, DashScope, ChromaDB, Streamlit
-
-### 可溯源跨模态思政教育系统｜Traceable Cross-modal System for Ideological Education
-
-国家级大学生创新创业训练计划项目。  
-A National College Student Innovation and Entrepreneurship Training Program project.
-
-项目面向思政教育场景，探索混合检索、知识图谱模块、Citation 溯源、政治安全审查与跨模态交互展示。  
-The project explores traceable educational AI interaction with hybrid retrieval, knowledge graph modules, citation grounding, political safety review, and cross-modal presentation.
-
-**关键词｜Keywords:** KG-RAG、可溯源生成、教育 AI、引用溯源｜KG-RAG, traceable generation, educational AI, citation grounding  
-**技术栈｜Tech stack:** FastAPI, schema-driven API, hybrid retrieval, knowledge graph modules planned
 
 ## 建模项目｜Research & Modeling
 
